@@ -1,0 +1,5 @@
+*.log
+*.pem
+credentials
+config
+.env
