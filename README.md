@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS CLI Secure Infrastructure Setup
 
 This project contains automated bash scripts to provision secure AWS infrastructure step-by-step using the AWS CLI.
@@ -12,3 +13,6 @@ This project contains automated bash scripts to provision secure AWS infrastruct
 - scripts/: Reusable bash automation scripts
 
 ---
+=======
+# aws-cli-secure-infra
+>>>>>>> e94b1d12b11a3db431c75841ac5e6e36d52c53de
